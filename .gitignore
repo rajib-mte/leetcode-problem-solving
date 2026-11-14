@@ -1,0 +1,75 @@
+
+# ==========================================
+# Compiled Binary Files
+# ==========================================
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+a.out
+
+# ==========================================
+# Debug and Core Dump Files
+# ==========================================
+*.core
+core
+core.*
+*.stackdump
+
+# ==========================================
+# Build Directories
+# ==========================================
+build/
+bin/
+dist/
+Debug/
+Release/
+
+# ==========================================
+# IDE and Editor Files
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+*.code-workspace
+
+# ==========================================
+# Temporary and Backup Files
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Test and Debug Output
+# ==========================================
+*.log
+*.gcda
+*.gcno
+*.gcov
+
+# ==========================================
+# CMake Generated Files
+# ==========================================
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ==========================================
+# Operating System Files
+# ==========================================
+Desktop.ini
